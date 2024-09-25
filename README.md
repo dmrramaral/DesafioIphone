@@ -1,5 +1,5 @@
 ## Entendimento
-Coloquei de maneira que as funções sejam parecidas no meu entendimento com um sistema operacional. Optando por uma abordagem que possa inserir no sistem aperacional os aplicativos e implementando no Iphone um SO. 
+Coloquei de maneira que as funções sejam parecidas no meu entendimento com um sistema operacional. Optando por uma abordagem que possa inserir no sistema operacional os aplicativos e implementando no Iphone um SO. 
 
 
    [![](https://mermaid.ink/img/pako:eNp9kk1OwzAQha9ieQWivUDEBsEGiRakbr2Z2kM6wrEj_0RAyN1x4yR1BOoiimfeN-8l1vRcWoW84lKD908EtYNGGMbOD2MH8gEbeG3RgSRrQLP7n-2W7aInCdeZPXRYg7LuOvZCNUiwwmTsuT1Zg1n6O5KZmR2_-R-qn4FhTWbvtVrq-a_63GLsLlgJN7dL2UL0Ze1R4xiY52ZlKC2XS7i44icdyb1BTaZ0A0Wj2d528HBcKSGCpm9Yj6xipku8hOjUWFmgUVg0yKQ0eLSmQ-dLz_HAN7xB1wCptBmjqeDhhA0KXqWjAvchuDBD4iAGe_gyklfBRdxwZ2N94tU7aJ-q2KoUPa3V0kVFwbrdtHjn1_ALfDvPYg?type=png)](https://mermaid.live/edit#pako:eNp9kk1OwzAQha9ieQWivUDEBsEGiRakbr2Z2kM6wrEj_0RAyN1x4yR1BOoiimfeN-8l1vRcWoW84lKD908EtYNGGMbOD2MH8gEbeG3RgSRrQLP7n-2W7aInCdeZPXRYg7LuOvZCNUiwwmTsuT1Zg1n6O5KZmR2_-R-qn4FhTWbvtVrq-a_63GLsLlgJN7dL2UL0Ze1R4xiY52ZlKC2XS7i44icdyb1BTaZ0A0Wj2d528HBcKSGCpm9Yj6xipku8hOjUWFmgUVg0yKQ0eLSmQ-dLz_HAN7xB1wCptBmjqeDhhA0KXqWjAvchuDBD4iAGe_gyklfBRdxwZ2N94tU7aJ-q2KoUPa3V0kVFwbrdtHjn1_ALfDvPYg)
